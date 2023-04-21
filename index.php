@@ -32,7 +32,7 @@
 		<br><br><a href="giantbombapi/favoriteGames.php">Giantbomb API Favorite Games List</a>
 		<br><br><a href="Valorant/Jolade_Stage3.php">Top 100 Valorant NA</a>
 		<br><br><a href="Apex/capstoneseverstyle.php">Apex API Data</a>
-		<br><br><a href="owl_players.php">Overwatch League API Data</a>
+		<br><br><a href="OWL_API/owl_players.php">Overwatch League API Data</a>
 	</body>
 </html>
  <?php 
